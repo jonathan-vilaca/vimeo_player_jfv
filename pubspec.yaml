@@ -1,7 +1,7 @@
 name: vimeo_player_jfv
 description: Package para gerar player do Vímeo através de uma url.
-version: 0.0.1
-homepage:
+version: 1.0.0
+homepage: https://github.com/jonathan-vilaca/vimeo_player_jfv
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
